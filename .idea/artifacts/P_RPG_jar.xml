@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="P-RPG:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/P_RPG_jar</output-path>
+    <root id="archive" name="P-RPG.jar">
+      <element id="module-output" name="P-RPG" />
+    </root>
+  </artifact>
+</component>

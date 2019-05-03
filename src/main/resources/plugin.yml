@@ -1,0 +1,6 @@
+name: P-RPG
+version: 0.5
+author: taahanis
+description: An RPG plugin duh
+main: me.taahanis.prpg.PRPG
+api-version: 1.13
